@@ -1,0 +1,10 @@
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\bin\Debug\物品借用程式.exe.config
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\bin\Debug\物品借用程式.exe
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\bin\Debug\物品借用程式.pdb
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.csprojAssemblyReference.cache
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.Form1.resources
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.Properties.Resources.resources
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.csproj.GenerateResource.cache
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.csproj.CoreCompileInputs.cache
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.exe
+C:\Users\chuchu\Desktop\物品借用程式\物品借用程式\obj\Debug\物品借用程式.pdb
